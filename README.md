@@ -16,5 +16,5 @@ FreeServer v3 是由一群熱愛技術的學生所創立和維護的專案。我
 ### 👥社群支援
 活躍的 Discord 社群，隨時提供技術支援和交流
 
-- ## [Discord](https://discord.com/invite/k5GgFFxN2Q)
-- ## [官網](https://freeserver.tw/)
+<h1><a href="https://discord.com/invite/k5GgFFxN2Q">Discord</h1>
+<h1><a href="https://freeserver.tw">官網</h1>
